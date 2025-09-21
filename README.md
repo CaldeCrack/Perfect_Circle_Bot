@@ -15,4 +15,4 @@ Bot to do a perfect circle in [https://neal.fun/perfect-circle/](https://neal.fu
 
 ## Disclaimer
 
-I've not seen anyone get a 100% so this is the best I'll do, at least for it always gets 99.9%.
+I've not seen anyone get 100% so this is the best I'll do, at least for me it always gets 99.9%.
