@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from pynput.mouse import Button, Controller
 from pynput import keyboard
 import time
